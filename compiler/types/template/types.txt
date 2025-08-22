@@ -1,0 +1,12 @@
+{warning}
+
+from __future__ import annotations
+{std_imports}
+from pybotgram.types import TelegramObject
+{imports}
+
+class {class_name}(TelegramObject):
+    """{docstring}
+    """
+
+    {fields}

@@ -1,0 +1,7 @@
+{warning}
+
+__all__ = (
+    {classes}
+)
+
+{imports}
